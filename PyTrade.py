@@ -134,3 +134,6 @@ d = [
 fig = go.Figure(data=d, layout=layout)
 
 py.plot(fig, filename='TSM-Open-Close_scatter')
+
+#%%
+
